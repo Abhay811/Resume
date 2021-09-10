@@ -2,8 +2,10 @@
 \usepackage[left = 1cm, top = 1cm, right = 1 cm,bottom = 1cm, a4paper]{geometry}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage[colorlinks = true,
-            linkcolor=blue, 
-            urlcolor = blue]{hyperref}
+            linkcolor= black, 
+            urlcolor = black,
+            anchorcolor = blue,
+            citecolor = blue]{hyperref}
 \usepackage{titlesec}
 \usepackage[absolute]{textpos}
 \usepackage[UKenglish]{babel}
@@ -13,7 +15,7 @@
 \usepackage{lipsum}
 \usepackage{amsmath}
 \usepackage{tcolorbox}
-
+\usepackage{fontawesome}
 
 \parindent 0pt
 \pagestyle{empty}
@@ -24,17 +26,32 @@
     \hfill
         Mob. : +91-8707445762
     \\
-    3\textsuperscript{rd} Year Integrated Student
+    4\textsuperscript{th} Year Integrated Student
     \hfill
-        Email : \href{mailto:maurya.08abhay@gmail.com}{maurya.08abhay@gmail.com}\\
+        Email : \href{mailto:maurya.08abhay@gmail.com}{\color{blue}maurya.abhay530@gmail.com}\\
     \hfill
         Computer Science and Engineering
     \hfill
-        \href{https://www.linkedin.com/in/abhay8/}{linkedin.com/in/abhay8}\\
+        \href{https://www.linkedin.com/in/abhay8/}{\color{blue}linkedin.com/in/abhay8}\\
     \hfill
     National Institute of Technology Hamirpur
     \hfill
-     \href{https://github.com/Abhay811}{github.com/Abhay811}\\
+     \href{https://github.com/Abhay811}{\color{blue}github.com/Abhay811}\\
+
+ \textbf{\large{Work Experience}}
+    \vspace{3pt}
+    \hrule
+    \vspace{6pt}
+    \hspace{8pt}\textbf{Mitigating Adversarial Attacks on Neural Networks}
+    \hfill
+    \textbf{Research Intern | \textit{Hamirpur, India}}
+    \begin{itemize}
+        \setlength{\itemsep}{0pt}
+        \setlength{\parskip}{0pt}
+        \setlength{\parsep}{0pt}
+        \item Worked on different methods(\textit{Denoising, Random noising}, etc) to reduce adversarial effects.
+        \item As a result Model can predict with more confidence.
+    \end{itemize}
 
 \textbf{\large{Education}}
     \vspace{3pt}
@@ -73,7 +90,22 @@
     \vspace{3pt}
     \hrule
     \vspace{6pt}
-    \hspace{8pt}\textbf{Sudoku Puzzle Solver and OCR:}
+    
+    \hspace{8pt}
+    \href{https://github.com/Abhay811/Weather-App}{\textbf{Weather App}}
+    \hfill
+    \text{Kotlin, Android, Room Database |\textit{September 2021} }
+        \begin{itemize}
+        \setlength{\itemsep}{0pt}
+        \setlength{\parskip}{0pt}
+        \setlength{\parsep}{0pt}
+        \item Used Room database to store different cities location.
+        \item Implemented using OpenWeather Api for weather status.
+        \end{itemize}
+    \hspace{8pt}
+    \href{https://github.com/Abhay811/Sudoku_solver}{\textbf{Sudoku Puzzle Solver and OCR:}}
+    \hfill
+    \text{Python |\textit{June 2021} }
        \begin{itemize}
         \setlength\itemsep{0pt}
         \setlength\parskip{0pt}
@@ -81,35 +113,29 @@
         \item  Designed Convolutional Neural Network (CNN) to OCR the digits(0 - 9) of the MNIST dataset
         \item Deployed trained Model with accuracy of 98\% to the input image containing Sudoku puzzle
         \item Demonstrated the result to original image in form of 9 x 9 grid and printed in terminal
-        \item View at: \href{https://github.com/Abhay811/Sudoku_solver}{Sudoku Puzzle Solver}
         \end{itemize}
-    \hspace{8pt}\textbf{Calories Burnt Prediction:}
-        \begin{itemize}
-        \setlength{\itemsep}{0pt}
-        \setlength{\parskip}{0pt}
-        \setlength{\parsep}{0pt}
-        \item The project focuses on the calories burned in accordance with the duration provided and heart rate during the exercise period, with the dataset of 15k to train model 
-        \item Employed XGBRegressor library to predict Calories Burned, with Accuracy upto 97.5\%
-        \item View at: \href{https://github.com/Abhay811/Calories-Burnt-Prediction}{Calories Burnt}
-        \end{itemize}
-    \hspace{8pt}\textbf{Pharmacy Management System:}
-    \begin{itemize}
-        \setlength{\itemsep}{0pt}
-        \setlength{\parskip}{0pt}
-        \setlength{\parsep}{0pt}
-        \item Led team of 3 to implement Desktop Application of Pharmacy using Java
-        \item Used GUI library JavaFx and Database of MySQL
-        \item View at: \href{https://github.com/Abhay811/DBMS}{Pharmacy}
-        \end{itemize}
-    \hspace{8pt}\textbf{Online Examination System:}
+    \hspace{8pt}\href{https://github.com/Abhay811/Advanced-Online-Examination}{\textbf{Online Examination System:}}
+    \hfill
+    \text{Python, Qt5, MySQL |\textit{Feb 2021 - April 2021} }
     \begin{itemize}
         \setlength{\itemsep}{0pt}
         \setlength{\parskip}{0pt}
         \setlength{\parsep}{0pt}
         \item Designed and implemented Desktop Application in 2-person team using Python
-        \item Used PyQt5 GUI and MySQL database, for user verification and signup SMTP module is employed to generate 6-digit OTP
-        \item View at: \href{https://github.com/Abhay811/Advanced-Online-Examination}{Online Examination System}
+        \item Students can create their account and log in and college database will be used to verify
+        \item For user verification and signup SMTP module is employed to generate 6-digit OTP
     \end{itemize}
+    \hspace{8pt}\href{https://github.com/Abhay811/Advanced-Online-Examination}{\textbf{Pharmacy Management System:}}
+    \hfill
+    \text{Java, JavaFx, MySQL |\textit{August 2020 - Nov 2020} }
+    \begin{itemize}
+        \setlength{\itemsep}{0pt}
+        \setlength{\parskip}{0pt}
+        \setlength{\parsep}{0pt}
+        \item Led team of 3 to implement Desktop Application of Pharmacy using Java
+        \item Designed to streamline workflows associated with drug dispensing, medication adherence, medical billing, inventory management and fulfillment, and customer data collection
+        \end{itemize}
+    
     % \textbf{Galaxy} : 
     % \begin{itemize}
     %     \setlength{\itemsep}{0pt}
@@ -139,7 +165,7 @@
     \vspace{3pt}
     \hrule
     \vspace{6pt}
-    \textbf{Certifications \& Training:} Neural Networks and Deep Learning, Convolutional Neural Networks, Machine Learning\\
+    \textbf{Certifications \& Training:} \href{https://drive.google.com/file/d/1mir_TBy9GinXpSU3H-8LyYn68GkcM62f/view?usp=sharing}{Neural Networks and Deep Learning}, \href{https://drive.google.com/file/d/18cQMPfNLtvY4-Ozh7hZnUIDKYh9tRYPG/view?usp=sharing}{Convolutional Neural Networks}, \href{https://drive.google.com/file/d/13L4JKQ1pwLG9YVevPVZLNRLUeZWGkvyU/view?usp=sharing}{Machine Learning}, \href{https://drive.google.com/file/d/1Hp5dvhNVz9FvjQ6Y4vIVZldKpb8m8LCp/view?usp=sharing}{Android Development}\\
     \textbf{Languages:} English, Hindi\\
     \textbf{Hobbies/Interests:} Watching Animes, Reading Technological Advancement, Reading/Watching about Cosmos, Competitive Coding
     
