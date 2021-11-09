@@ -1,3 +1,0 @@
-# Resume
-
-My Resume Latex Files...
