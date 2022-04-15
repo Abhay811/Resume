@@ -1,22 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.30)  26 FEB 2022 09:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.22)  15 APR 2022 10:58
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **./resume.tex
 (resume.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27>
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -32,11 +34,11 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count190
-\Gm@cntv=\count191
-\c@Gm@tempcnt=\count192
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -49,31 +51,31 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Package option `usenames' ignored on input line 216.
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
  (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -116,17 +118,12 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen147
-\Hy@linkcounter=\count193
-\Hy@pagecounter=\count194
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
  (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
-atches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -134,27 +131,27 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count195
+\Hy@SavedSpaceFactor=\count198
  (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4018.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count196
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count199
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
+LaTeX Info: Redefining \url on input line 4749.
 \XeTeXLinkMargin=\dimen148
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -165,38 +162,38 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count197
+\Fld@menulength=\count266
 \Field@Width=\dimen149
 \Fld@charsize=\dimen150
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring ON on input line 6094.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count198
-\c@Item=\count199
-\c@Hfootnote=\count266
+\Hy@abspage=\count267
+\c@Item=\count268
+\c@Hfootnote=\count269
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
-\Fld@listcount=\count267
-\c@bookmark@seq@number=\count268
+\Fld@listcount=\count270
+\c@bookmark@seq@number=\count271
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -241,18 +238,14 @@ Grid set 16 x 16 = 37.34424pt x 52.81541pt
 \TP@tbargs=\toks19
 TextBlockOrigin set to 0pt x 0pt
 ) (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/07/22 3.63 The Babel package
-
-(C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/07/22 3.63 Babel common definitions
-\babel@savecnt=\count269
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count272
 \U@D=\dimen163
 \l@unhyphenated=\language79
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-)
-\bbl@dirlevel=\count270
+\bbl@dirlevel=\count273
 
 *************************************
 * Local config file bblopts.cfg used
@@ -283,7 +276,7 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count271
+\c@su@anzahl=\count274
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/isodate\english.idf
 File: english.idf 2010/01/03 v2.30 Language definitions for isodate package (HH
@@ -291,66 +284,66 @@ File: english.idf 2010/01/03 v2.30 Language definitions for isodate package (HH
 
 Define commands for English date format
 )
-\c@iso@tmpmonth=\count272
-\c@iso@yeartwo=\count273
-\c@iso@slash=\count274
-\c@iso@minus=\count275
-\c@iso@dot=\count276
-\c@iso@@slash=\count277
-\c@iso@@minus=\count278
-\c@iso@@dot=\count279
+\c@iso@tmpmonth=\count275
+\c@iso@yeartwo=\count276
+\c@iso@slash=\count277
+\c@iso@minus=\count278
+\c@iso@dot=\count279
+\c@iso@@slash=\count280
+\c@iso@@minus=\count281
+\c@iso@@dot=\count282
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count280
-\c@Blindtext=\count281
-\c@blind@countparstart=\count282
-\blind@countxx=\count283
-\blindtext@numBlindtext=\count284
-\blind@countyy=\count285
-\c@blindlist=\count286
-\c@blindlistlevel=\count287
-\c@blindlist@level=\count288
-\blind@listitem=\count289
-\c@blind@listcount=\count290
-\c@blind@levelcount=\count291
-\blind@mathformula=\count292
-\blind@Mathformula=\count293
-\c@blind@randomcount=\count294
-\c@blind@randommax=\count295
-\c@blind@pangramcount=\count296
-\c@blind@pangrammax=\count297
+\c@blindtext=\count283
+\c@Blindtext=\count284
+\c@blind@countparstart=\count285
+\blind@countxx=\count286
+\blindtext@numBlindtext=\count287
+\blind@countyy=\count288
+\c@blindlist=\count289
+\c@blindlistlevel=\count290
+\c@blindlist@level=\count291
+\blind@listitem=\count292
+\c@blind@listcount=\count293
+\c@blind@levelcount=\count294
+\blind@mathformula=\count295
+\blind@Mathformula=\count296
+\c@blind@randomcount=\count297
+\c@blind@randommax=\count298
+\c@blind@pangramcount=\count299
+\c@blind@pangrammax=\count300
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
 eys2e.sty
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-08-27 L3 programming layer (loader) 
+Package: expl3 2022-02-24 L3 programming layer (loader) 
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count301
 \l__pdf_internal_box=\box53
 ))
-Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count299
-\l__lipsum_a_int=\count300
-\l__lipsum_b_int=\count301
+\g__lipsum_par_int=\count302
+\l__lipsum_a_int=\count303
+\l__lipsum_b_int=\count304
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/04/20 v2.17j AMS math features
+Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
@@ -362,15 +355,15 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen165
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count302
+\inf@bad=\count305
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count303
-\leftroot@=\count304
+\uproot@=\count306
+\leftroot@=\count307
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count305
-\DOTSCASE@=\count306
+\classnum@=\count308
+\DOTSCASE@=\count309
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -379,15 +372,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen166
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count307
-\c@MaxMatrixCols=\count308
+\macc@depth=\count310
+\c@MaxMatrixCols=\count311
 \dotsspace@=\muskip17
-\c@parentequation=\count309
-\dspbrk@lvl=\count310
+\c@parentequation=\count312
+\dspbrk@lvl=\count313
 \tag@help=\toks21
-\row@=\count311
-\column@=\count312
-\maxfields@=\count313
+\row@=\count314
+\column@=\count315
+\maxfields@=\count316
 \andhelp@=\toks22
 \eqnshift@=\dimen167
 \alignsep@=\dimen168
@@ -399,11 +392,11 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \multlinegap=\skip53
 \multlinetaggap=\skip54
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
-Package: tcolorbox 2021/06/14 version 4.51 text color boxes
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
 y
@@ -429,13 +422,13 @@ Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
 sty
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
@@ -473,14 +466,14 @@ filtered.code.tex
 \pgf@yd=\dimen186
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count314
-\c@pgf@countb=\count315
-\c@pgf@countc=\count316
-\c@pgf@countd=\count317
+\c@pgf@counta=\count317
+\c@pgf@countb=\count318
+\c@pgf@countc=\count319
+\c@pgf@countd=\count320
 \t@pgf@toka=\toks29
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
-\pgf@sys@id@count=\count318
+\pgf@sys@id@count=\count321
 
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
@@ -499,8 +492,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count319
-\pgfsyssoftpath@bigbuffer@items=\count320
+\pgfsyssoftpath@smallbuffer@items=\count322
+\pgfsyssoftpath@bigbuffer@items=\count323
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
@@ -519,7 +512,7 @@ code.tex)
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
 \pgfmath@dimen=\dimen187
-\pgfmath@count=\count321
+\pgfmath@count=\count324
 \pgfmath@box=\box57
 \pgfmath@toks=\toks32
 \pgfmath@stack@operand=\toks33
@@ -545,7 +538,7 @@ ions.misc.code.tex)
 ions.integerarithmetics.code.tex)))
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count322
+\c@pgfmathroundto@lastzeros=\count325
 ))
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
@@ -585,7 +578,7 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box58
 \pgf@hbox=\box59
 \pgf@layerbox@main=\box60
-\pgf@picture@serial@count=\count323
+\pgf@picture@serial@count=\count326
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
@@ -620,8 +613,8 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 eshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen267
-\pgf@sys@shading@range@num=\count324
-\pgf@shadingcount=\count325
+\pgf@sys@shading@range@num=\count327
+\pgf@shadingcount=\count328
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
@@ -682,15 +675,15 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count326
+\etb@tempcnta=\count329
 )
 \tcb@titlebox=\box63
 \tcb@upperbox=\box64
 \tcb@lowerbox=\box65
 \tcb@phantombox=\box66
-\c@tcbbreakpart=\count327
-\c@tcblayer=\count328
-\c@tcolorbox@number=\count329
+\c@tcbbreakpart=\count330
+\c@tcblayer=\count331
+\c@tcolorbox@number=\count332
 \tcb@temp=\box67
 \tcb@temp=\box68
 \tcb@temp=\box69
@@ -740,14 +733,14 @@ LaTeX Font Info:    ... okay on input line 27.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(42.67912pt, 773.91498pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=540.60239pt
-* \textheight=773.91498pt
+* \textheight=788.14136pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-66.59087pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -769,16 +762,16 @@ LaTeX Font Info:    ... okay on input line 27.
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count330
+\scratchcounter=\count333
 \scratchdimen=\dimen270
 \scratchbox=\box71
-\nofMPsegments=\count331
-\nofMParguments=\count332
+\nofMPsegments=\count334
+\nofMParguments=\count335
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count333
+\MPscratchCnt=\count336
 \MPscratchDim=\dimen271
-\MPnumerator=\count334
-\makeMPintoPDFobject=\count335
+\MPnumerator=\count337
+\makeMPintoPDFobject=\count338
 \everyMPtoPDFconversion=\toks38
 )
 (C:\Users\abhay\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -803,7 +796,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count336
+\c@section@level=\count339
 )
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
@@ -827,24 +820,25 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
 
  []
 
 [1
 
-{C:/Users/abhay/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (resume.aux)
+{C:/Users/abhay/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22572 strings out of 478927
- 406856 string characters out of 2852534
- 830242 words of memory out of 3000000
- 40053 multiletter control sequences out of 15000+600000
- 407150 words of font info for 39 fonts, out of 8000000 for 9000
+ 23180 strings out of 478582
+ 430184 string characters out of 2844344
+ 831281 words of memory out of 3000000
+ 40994 multiletter control sequences out of 15000+600000
+ 472979 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,5n,108p,568b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,5n,104p,568b,337s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\abhay\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/abhay/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/abhay/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -857,9 +851,9 @@ pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl8.pfb><C:/Users/
 abhay/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 C:/Users/abhay/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 i10.pfb>
-Output written on resume.pdf (1 page, 142511 bytes).
+Output written on resume.pdf (1 page, 144588 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
